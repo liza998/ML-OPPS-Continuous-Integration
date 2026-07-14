@@ -26,7 +26,7 @@ jobs:
 
         - name: run test
           run: 
-             pytest_test.py 
+             _test.py 
         
 
 
